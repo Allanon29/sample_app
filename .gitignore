@@ -13,3 +13,5 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+/sample_app.sublime-project
+/sample_app.sublime-workspace
